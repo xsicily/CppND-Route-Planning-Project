@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This is the project for the first course in the Udacity C++ Nanodegree Program: Route Planning project.
+This is the project for the first course in the Udacity C++ Nanodegree Program: Route Planning.
 
 <img src="map.png" width="600" height="450" />
 
